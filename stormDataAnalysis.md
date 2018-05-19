@@ -1,7 +1,7 @@
 # Analysis of impact, both economic as victims, of different weather events in the USA based on the NOAA Storm Database
 
-By Tom Lous (tomlous@gmail.com)
-Date: 19-12-2014
+By Stephen Esaku 
+Date: 19-05-2018
 
 ## Reproducible Research: Peer Assessment 2
 
